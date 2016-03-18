@@ -10,7 +10,7 @@ it has been used in may products and continues to be of some value.
 
 ## Authors
 
-* Gerry Shaw
+* [Gerry Shaw](http://gshaw.ca)
 
 ### Special Thanks
 
